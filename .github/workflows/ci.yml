@@ -14,8 +14,6 @@ jobs:
             --standalone 
             -t beamer+smart 
             --pdf-engine xelatex 
-            --syntax-definition kotlin.xml 
-            --highlight-style highlight.theme 
             --output presentation.tex 
             presentation.md
       - uses: actions/checkout@v2
