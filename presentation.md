@@ -74,7 +74,7 @@ We are a laboratory of static analysis and verification: it's in the name
 
 \center
 
-![](BorealisOverview.svg)
+![](BorealisOverview.eps)
 
 ## Borealis: publications
 
